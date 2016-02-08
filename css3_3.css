@@ -25,7 +25,7 @@ abbr {cursor: help;
 	font-size: 130%;
 	color: #ff2166;
 	border-bottom: 1px dotted #888;
-	text-shadow: 0px 0px 1px #333;
+	text-shadow: 0px 0px 10px #333;
 }
 p {
 	font-size: 30px;
